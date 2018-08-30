@@ -1,3 +1,3 @@
 # Readme 
-this is my blog commit repo
+this is my blog comment repo
 
